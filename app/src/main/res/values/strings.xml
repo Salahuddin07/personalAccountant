@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Accountant</string>
+
+    <string name="dialogTitle">Personal Accountant</string>
+    <string name="dialogMessage">Do you want to exit?</string>
+
+</resources>
